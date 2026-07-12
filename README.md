@@ -21,7 +21,7 @@ Getting started
 3. Run the example scripts (if present):
 
    ```bash
-   python path/to/script.py
+   python path/to/main.py
    ```
 
 Notes
